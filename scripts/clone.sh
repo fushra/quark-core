@@ -20,7 +20,7 @@ function clone {
     echo "Cloning gecko source code"
     echo "#########################"
 
-    git clone https://github.com/mozilla-dev .
+    git clone https://github.com/mozilla/gecko-dev .
 
     echo "##################"
     echo "Cloning quark host"
